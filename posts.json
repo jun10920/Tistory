@@ -20,6 +20,16 @@
 			"comments": "0",
 			"trackbacks": "0",
 			"date": "2023-12-21 16:49:10"
+		},
+		"9": {
+			"id": "9",
+			"title": "main함수가 return 하는 자료형이 왜 void가 아닌 int형인가? - 윤성우의 열혈 C 프로그래밍",
+			"postUrl": "https://jun10920.tistory.com/9",
+			"visibility": "20",
+			"categoryId": "1194077",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2023-12-28 13:15:51"
 		}
 	}
 }
