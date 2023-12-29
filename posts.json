@@ -30,6 +30,16 @@
 			"comments": "0",
 			"trackbacks": "0",
 			"date": "2023-12-28 13:15:51"
+		},
+		"10": {
+			"id": "10",
+			"title": "CLION에서 왜 UTF-8로 인코딩하면 한글이 깨지는가? - 윤성우의 열혈 C 프로그래밍",
+			"postUrl": "https://jun10920.tistory.com/10",
+			"visibility": "20",
+			"categoryId": "1194077",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2023-12-29 14:59:21"
 		}
 	}
 }
